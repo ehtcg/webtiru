@@ -1,1 +1,4 @@
 .zt
+.DS_Store
+.Progect
+*.pyc
